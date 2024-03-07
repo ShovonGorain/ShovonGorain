@@ -55,5 +55,5 @@
 
 <p>
     <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=shovon-gorain&show_icons=true&locale=en" alt="shovon-gorain">
-    <img align="right" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=shovon-gorain" alt="shovon-gorain">
+    <img align="right" width="415px" src="https://github-readme-streak-stats.herokuapp.com/?user=shovon-gorain" alt="shovon-gorain">
 </p>
