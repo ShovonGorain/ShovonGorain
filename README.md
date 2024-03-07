@@ -93,27 +93,27 @@
 # ### Projects Using Language
 
 <p>
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShovonGorain12&show_icons=true&locale=en&layout=compact" alt="ShovonGorain12" />
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shovon-gorain&show_icons=true&locale=en&layout=compact" alt="shovon-gorain" />
 </p>
 
 # ### Starts In Github Repositories
 
 <p>
-    <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=ShovonGorain12&show_icons=true&locale=en" alt="ShovonGorain12">
-    <img align="right" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=ShovonGorain12" alt="ShovonGorain12">
+    <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=shovon-gorain&show_icons=true&locale=en" alt="shovon-gorain">
+    <img align="right" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=shovon-gorain" alt="shovon-gorain">
 </p>
 
 
 
 <!-- 
 <p> 
-    <img align="right" width="400px" src="hhttps://github-readme-streak-stats.herokuapp.com user=ShovonGorain12" alt="ShovonGorain12"> 
-    <img align="right" width="400px" src="hhttps://github-readme-streak-stats.herokuapp.com user=ShovonGorain12" alt="ShovonGorain12"> 
+    <img align="right" width="400px" src="hhttps://github-readme-streak-stats.herokuapp.com user=shovon-gorain" alt="shovon-gorain"> 
+    <img align="right" width="400px" src="hhttps://github-readme-streak-stats.herokuapp.com user=shovon-gorain" alt="shovon-gorain"> 
 </p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShovonGorain12&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShovonGorain12)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shovon-gorain)](https://git.io/streak-stats)
 
-https://github-readme-streak-stats.herokuapp.com?user=ShovonGorain12 -->
+https://github-readme-streak-stats.herokuapp.com?user=shovon-gorain -->
