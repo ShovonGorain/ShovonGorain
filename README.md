@@ -7,11 +7,16 @@
 
 <h3 align="center">[ Socail Media Account ]</h3>
 <div align="center"></a>
-    <a href="" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="20">
-    
 
-    <img src="https://github.com/pionxzh/Get-Twitter-Icons-Back/assets/9910706/3fca5769-15d9-4317-ad88-e07cfdc747c6" alt="Twitter Icon" width="200">
+<a href="https://www.linkedin.com/in/Shovon-Gorain" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://twitter.com/Shovon_Gorain" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+    
 </div>
 
 
