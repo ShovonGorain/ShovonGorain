@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://x.com/Shovon_Gorain?t=HRXRb_no1Jddhk3mfJZ9eA&s=09" target="_blank">
+<a href="[https://x.com/Shovon_Gorain?t=HRXRb_no1Jddhk3mfJZ9eA&s=09](https://x.com/Shovon_Gorain?t=HRXRb_no1Jddhk3mfJZ9eA&s=09)" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 
