@@ -8,7 +8,7 @@
 <h3 align="center">[ Socail Media Account ]</h3>
 <div align="center"></a>
 
-<a href="https://www.linkedin.com/in/Shovon-Gorain" target="_blank">
+<a href="https://www.linkedin.com/in/shovon-gorain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
