@@ -6,13 +6,13 @@
 **I am currently pursuing an MCA degree at JECRC University, having completed my BCA from Bengal College of Engineering Technology and my 12th grade from Suri Beni Madhab Institution in the Vocational stream. As a Python Developer, I have expertise in C/C++, Java, Python, MySQL, Data Structures and Algorithms (DSA), and Database Management Systems (DBMS). I enjoy coding in multiple languages, listening to music, and gaming. With three months of experience as a Software Developer (Java) at AICT.PVT.LTD., my goal is to become a Cyber-Security Officer in the Indian Cyber Army (ICA). My strength is delivering tasks perfectly, though I find it hard to say no to others.**
 
 <h3 align="center">[ Socail Media Account ]</h3>
-<div align="center"></a>
+<div align="center">
 
-<a href="[https://www.linkedin.com/in/shovon-gorain](https://www.linkedin.com/in/shovon-gorain-6314702b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+<a href="https://www.linkedin.com/in/shovon-gorain-6314702b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="[https://x.com/Shovon_Gorain?t=HRXRb_no1Jddhk3mfJZ9eA&s=09](https://x.com/Shovon_Gorain?t=HRXRb_no1Jddhk3mfJZ9eA&s=09)" target="_blank">
+<a href="https://x.com/Shovon_Gorain?t=HRXRb_no1Jddhk3mfJZ9eA&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 
