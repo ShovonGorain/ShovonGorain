@@ -48,12 +48,11 @@
 
 <h3 align="center">[ Projects Using Language ] </h3>
 <div align="center">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shovon-gorain&show_icons=true&locale=en&layout=compact" alt="shovon-gorain" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovon-gorain&theme=solarized-light&show_icons=true&hide_border=true&layout=compact" alt="shovon-gorain](https://github-readme-streak-stats.herokuapp.com/?user=shovon-gorain&theme=solarized-light&hide_border=true)" />
 </div>
-
 
 <h3 align="center">[ Starts In Github Repositories ] </h3>
 <div align="center">
-    <img align="center" height="110px" src="https://github-readme-stats.vercel.app/api?username=shovon-gorain&show_icons=true&locale=en" alt="shovon-gorain">
-    <img align="center" height="110px" src="https://github-readme-streak-stats.herokuapp.com/?user=shovon-gorain" alt="shovon-gorain">
+    <img align="center" height="110px" src="https://github-readme-stats.vercel.app/api?username=shovon-gorain&theme=solarized-light&show_icons=true&hide_border=true&count_private=true" alt="shovon-gorain">
+    <img align="center" height="110px" src="https://github-readme-streak-stats.herokuapp.com/?user=shovon-gorain&theme=solarized-light&hide_border=true">
 </div>
