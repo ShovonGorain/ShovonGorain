@@ -46,4 +46,4 @@
 ## [ Starts In Github Repositories ]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shovon-gorain)](https://github.com/shovon-gorain/github-readme-stats)
-<img height=50 width =50 > [![GitHub Streak](https://streak-stats.demolab.com/?user=shovon-gorain&theme=white)](https://git.io/streak-stats) </img>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shovon-gorain&theme=white)](https://git.io/streak-stats)
