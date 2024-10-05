@@ -42,8 +42,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovon-gorain)](https://github.com/shovon-gorain/github-readme-stats)
 
-
-## [ Starts In Github Repositories ]
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shovon-gorain)](https://github.com/shovon-gorain/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shovon-gorain&theme=white)](https://git.io/streak-stats)
