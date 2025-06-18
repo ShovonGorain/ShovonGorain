@@ -6,7 +6,7 @@
 *I’m Shovon Gorain from West Bengal, a passionate and focused Python Developer currently working with the Flask framework to build efficient and scalable web applications. I'm actively involved in several Python projects that reflect my dedication to clean code, backend logic, and real-world problem-solving. My interest in programming drives me to continuously improve and explore new tools and technologies in the Python ecosystem. Beyond development, my future goal is to build a career in Cybersecurity. I have already earned certifications in CNDv3 (Certified Network Defender) and CEHv13 (Certified Ethical Hacker), and I am currently preparing for CEH Master to deepen my expertise in ethical hacking and defensive security strategies. I'm committed to merging my programming skills with cybersecurity knowledge to contribute meaningfully in the field of Blue Teaming and Cyber Defense.*
 
 ## [ Socail Media Account ]
-<a href="https://www.linkedin.com/in/shovon-gorain-6314702b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<a href="https://www.linkedin.com/in/shovon-gorain-6314702b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target=" blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:shovongorain1002@gmail.com">
