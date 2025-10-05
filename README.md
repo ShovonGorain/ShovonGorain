@@ -158,14 +158,14 @@ cat /proc/ctf/stats
 <h1 align="center">System Statistics</h1>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shovon-gorain&theme=highcontrast&background=000000)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Shovon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shovon-gorain&show_icons=true&theme=radical&hide_border=true&bg_color=000000)](https://github.com/shovon-gorain)
+
+[![Shovon's GitHub Streak](https://streak-stats.demolab.com?user=shovon-gorain&theme=dark&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+![shovon-gorain's Stats](https://github-readme-stats.vercel.app/api?username=shovon-gorain&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 </div>
 
 <div align="center">
-<img alt="Weapon Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovon-gorain&layout=compact&theme=radical&hide_border=true&bg_color=000000" width="46%" />
+<img alt="Weapon Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovon-gorain&theme=dark&show_icons=true&hide_border=true&layout=compact" width="46%" />
 </div>
 
 ### `🔐 Current Focus`
