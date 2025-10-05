@@ -1,6 +1,6 @@
 # Hello, I'm Shovon Gorain 👋 
 
-### `Security Researcher | Ethical Hacker | CTF Player`
+### `Cyber Security Analysis | Ethical Hacker | CTF Player`
 
 -----
 
@@ -140,6 +140,8 @@ ls -la ~/projects/
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/shovon.gorain.png)](https://tryhackme.com/p/shovon.gorain)
 
+</div>
+
 ```bash
 # CTF Stats
 cat /proc/ctf/stats
@@ -148,8 +150,6 @@ cat /proc/ctf/stats
 > Learning Paths: 5+
 > Rank: Top 5%
 ```
-
-</div>
 
 -----
 
@@ -215,7 +215,7 @@ find /ctf/flags/ -name "*.txt" -exec cat {} \;
 
 ---
 
-<div align="center">
+<div>
 
 ### `⚡ Live Status`
 
@@ -230,6 +230,8 @@ echo "Vulnerabilities Found: 0 Critical"
 echo "Systems Secured: 100%"
 echo "Threat Level: LOW"
 ```
+</div>
+<div align="center">
 
 **"The quieter you become, the more you are able to hear."** - *Unknown*
 
