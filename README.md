@@ -12,8 +12,8 @@
 
 -----
 
-![profile count](https://komarev.com/ghpvc/?username=shovon-gorain&color=red)&nbsp;
-[![GitHub shovon-gorain](https://img.shields.io/github/followers/shovon-gorain?label=follow&style=social)](https://github.com/shovon-gorain)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ShovonGorain&color=red)&nbsp;
+[![GitHub shovon-gorain](https://img.shields.io/github/followers/ShovonGorain?label=follow&style=social)](https://github.com/ShovonGorain)&nbsp;
 [![Hacker](https://img.shields.io/badge/Hacker-Red?style=flat&logo=hashnode&logoColor=white)](https://tryhackme.com/p/ShovonGorain)&nbsp;
 [![Bug Hunter](https://img.shields.io/badge/Bug%20Hunter-Orange?style=flat&logo=bugcrowd&logoColor=white)]()&nbsp;
 
@@ -138,7 +138,7 @@ ls -la ~/projects/
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/shovon.gorain.png)](https://tryhackme.com/p/shovon.gorain)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ShovonGorain.png)](https://tryhackme.com/p/ShovonGorain)
 
 </div>
 
@@ -159,13 +159,13 @@ cat /proc/ctf/stats
 
 <div align="center">
 
-[![Shovon's GitHub Streak](https://streak-stats.demolab.com?user=shovon-gorain&theme=dark&hide_border=true&border_radius=0)](https://git.io/streak-stats)
-![shovon-gorain's Stats](https://github-readme-stats.vercel.app/api?username=shovon-gorain&theme=dark&show_icons=true&hide_border=true&count_private=true)
+[![Shovon's GitHub Streak](https://streak-stats.demolab.com?user=ShovonGorain&theme=dark&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+![shovon-gorain's Stats](https://github-readme-stats.vercel.app/api?username=ShovonGorain&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 </div>
 
 <div align="center">
-<img alt="Weapon Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovon-gorain&theme=dark&show_icons=true&hide_border=true&layout=compact" width="46%" />
+<img alt="Weapon Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShovonGorain&theme=dark&show_icons=true&hide_border=true&layout=compact" width="46%" />
 </div>
 
 ### `🔐 Current Focus`
