@@ -1,17 +1,17 @@
 # Hello, I'm Shovon Gorain 👋 
 
-### `Cyber Security Analysis | Ethical Hacker | CTF Player`
+### `Cyber Security Analysis | SOC Analyst | Bug Bounty Hunter`
 
------
 
-<p align="center">
+
+<!-- <p align="center">
 
 <h3 align="center">2023 GitHub Hackathon Winner</h3>
 <img aligh="center" width="1500" src="https://holopin.me/shovon12j34"></img>
 <h3 align="center">2025 GitHub Hackathon Winner</h3>
 <img aligh="center" width="1500" src="https://holopin.me/shovongorain"></img>
 
-</p>
+</p> -->
 
 -----
 
@@ -27,7 +27,7 @@
 # Security Researcher & Ethical Hacker
 
 whoami
-> shovon-gorain
+> ShovonGorain
 
 id
 > uid=1000(shovon) gid=1000(hacker) groups=1000(hacker),4(security),24(ctf)
@@ -37,23 +37,6 @@ cat /proc/version
 > Specializing in Web Application Security & Network Penetration Testing
 ```
 
-**💡 Cyber Security Focus Areas:**
-- `Web Application Security` | `Network Penetration Testing` 
-- `Vulnerability Research` | `Malware Analysis`
-- `Digital Forensics` | `Incident Response`
-
-**🔧 Current Engagements:**
-```python
-# Ongoing Security Research
-current_projects = [
-    "Web App Vulnerability Research",
-    "CTF Challenge Development", 
-    "Security Tool Development",
-    "Penetration Testing Reports"
-]
-```
-
------
 
 ### `📫 Contact & Recon`
 
@@ -61,39 +44,33 @@ current_projects = [
 <a href="https://tryhackme.com/p/ShovonGorain"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a> &nbsp;
 <a href="https://github.com/shovon-gorain"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> &nbsp;
 
-```bash
-# Connect with me
-nmap -sV -sC shovon-gorain.com
-> PORT     STATE SERVICE    VERSION
-> 22/tcp   open  ssh        OpenSSH 8.2p1
-> 80/tcp   open  http       Apache httpd 2.4.41
-> 443/tcp  open  ssl/https  nginx 1.18.0
-```
-
------  
+-----
 
 ### `🛡️ Security Arsenal`
 
-<h1 align="center">Weapons & Tools</h1>
+**🏆 CTF & Achievements**
 
-<div align="center">
+<div align="left">
 
-| Category | Tools |
-|----------|-------|
-| **Reconnaissance** | `Nmap` `Sublist3r` `Amass` `theHarvester` |
-| **Web App Testing** | `Burp Suite` `OWASP ZAP` `SQLmap` `Nikto` |
-| **Exploitation** | `Metasploit` `Searchsploit` `ExploitDB` `Custom Scripts` |
-| **Post-Exploitation** | `Mimikatz` `BloodHound` `LinPEAS` `WinPEAS` |
-| **Forensics** | `Autopsy` `Volatility` `Wireshark` `FTK Imager` |
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ShovonGorain.png)](https://tryhackme.com/p/ShovonGorain)
 
 </div>
 
-### `🔧 Tech Stack`
+**📜 Certifications & Learning**
+
+```bash
+cat /etc/certifications
+> [ ] eJPT - Junior Penetration Tester
+> [ ] OSCP - Offensive Security Certified Professional  
+> [x] CEH - Certified Ethical Hacker
+> [x] CND - Certified Network Defender
+```
+
+**🔧 Tech Stack**
 
 ```yaml
 Operating Systems:
   - "Kali Linux"
-  - "Parrot OS" 
   - "Windows/Server"
   - "Ubuntu/Debian"
 
@@ -112,46 +89,38 @@ Web Technologies:
 Cloud & Containers:
   - "Docker"
   - "AWS Security"
-  - "Kubernetes"
 ```
 
------
+**⚔️ Weapons & Tools**
 
-### `📁 Security Projects & Writeups`
+<div align="left">
 
-<h1 align="center">/home/shovon/Projects</h1>
-
-<div align="center">
-
-```bash
-ls -la ~/projects/
-```
-
-| Project | Type | Status |
-|---------|------|--------|
-| `Web App Pentest Reports` | Documentation | 🔴 **Classified** |
-| `Custom Exploit Development` | Code | 🟢 **Active** |
-| `CTF Writeups` | Documentation | 🟡 **Ongoing** |
-| `Security Tools` | Development | 🟢 **Active** |
-| `Vulnerability Research` | Research | 🔴 **Private** |
+| Category | Tools |
+|----------|-------|
+| **Reconnaissance** | `Nmap` `Sublist3r` `Amass` `theHarvester` |
+| **Web App Testing** | `Burp Suite` `OWASP ZAP` `SQLmap` `Nikto` |
+| **Exploitation** | `Metasploit` `Searchsploit` `ExploitDB` `Custom Scripts` |
+| **Post-Exploitation** | `Mimikatz` `BloodHound` `LinPEAS` `WinPEAS` |
+| **Forensics** | `Autopsy` `Volatility` `Wireshark` `FTK Imager` |
 
 </div>
 
-### `🏆 CTF & Achievements`
+**💡 Cyber Security Focus Areas:**
+- `Web Application Security` | `Network Penetration Testing` 
+- `Vulnerability Research` | `Malware Analysis`
+- `Digital Forensics` | `Incident Response`
 
-<div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ShovonGorain.png)](https://tryhackme.com/p/ShovonGorain)
 
-</div>
-
-```bash
-# CTF Stats
-cat /proc/ctf/stats
-> Rooms Completed: 50+
-> Challenges Solved: 200+
-> Learning Paths: 5+
-> Rank: Top 5%
+**🔧 Current Engagements:**
+```python
+# Ongoing Security Research
+current_projects = [
+    "Web App Vulnerability Research",
+    "CTF Challenge Development", 
+    "Security Tool Development",
+    "Penetration Testing Reports"
+]
 ```
 
 -----
@@ -171,70 +140,7 @@ cat /proc/ctf/stats
 <img alt="Weapon Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShovonGorain&theme=dark&show_icons=true&hide_border=true&layout=compact" width="46%" />
 </div>
 
-### `🔐 Current Focus`
-
-```python
-class SecurityResearch:
-    def __init__(self):
-        self.current_focus = [
-            "Advanced Penetration Testing",
-            "Cloud Security Assessment", 
-            "Red Team Operations",
-            "Threat Hunting"
-        ]
-    
-    def skills_in_development(self):
-        return {
-            "web_apps": "OWASP Top 10 Mastery",
-            "network": "Advanced Network Pentesting",
-            "cloud": "AWS/Azure Security",
-            "mobile": "Android/iOS Security"
-        }
-```
-
-### `📜 Certifications & Learning`
-
-```bash
-cat /etc/certifications
-> [ ] eJPT - Junior Penetration Tester
-> [ ] OSCP - Offensive Security Certified Professional  
-> [ ] CEH - Certified Ethical Hacker
-> [x] TryHackMe Complete Beginner Path
-> [x] Multiple CTF Certifications
-```
-
 ---
-
-### `🚩 Flags Captured`
-
-```bash
-# Recent Achievements
-find /ctf/flags/ -name "*.txt" -exec cat {} \;
-> THM{SH0V0N_G0R41N_R00T}
-> HTB{ETH1C4L_H4CK3R}
-> CTF{W3B_4PP_S3CUR1TY}
-> FLAG{P3N_T3ST3R}
-```
-
----
-
-<div>
-
-### `⚡ Live Status`
-
-```bash
-#!/bin/bash
-# Current Security Operations
-
-echo "🛡️  Online | 🔒 Secured | 🔍 Monitoring"
-echo "----------------------------------------"
-echo "Last PenTest: $(date)"
-echo "Vulnerabilities Found: 0 Critical"
-echo "Systems Secured: 100%"
-echo "Threat Level: LOW"
-```
-</div>
-<div align="center">
 
 **"The quieter you become, the more you are able to hear."** - *Unknown*
 
