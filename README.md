@@ -1,6 +1,6 @@
 # Hello, I'm Shovon Gorain 👋 
 
-### `Cyber Security Analysis | SOC Analyst | Bug Bounty Hunter`
+### `Cyber Security Analyst | GRC Analyst | SOC Analyst | Bug Bounty Hunter`
 
 
 
